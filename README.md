@@ -1,3 +1,4 @@
+
 # 🐍 Cours de Développement - Python pour Débutants
 
 Bienvenue dans ce cours d'introduction à la programmation avec Python ! Ce cours est conçu pour les **débutants complets** qui n'ont jamais programmé.
